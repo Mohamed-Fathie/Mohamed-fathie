@@ -4,12 +4,13 @@
 I'm an undergraduate student at Tripoli University studying software engineering. I'm passionate about software engineering and creating impactful solutions.
 
 ## Skills
-- Programming Languages: Java, C, JavaScript, PHP, Dart
-- Frameworks: Flutter
-- Tools: GitHub, Git
-- Testing: Unit Testing, TDD
-- Markup Languages: HTML, CSS
-- Soft Skills: Problem Solving, Communication, Teamwork
+- Programming Languages: ![Java](https://img.shields.io/badge/Java-Intermediate-orange) ![C](https://img.shields.io/badge/C-Intermediate-orange) ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-orange) ![PHP](https://img.shields.io/badge/PHP-Intermediate-orange) ![Dart](https://img.shields.io/badge/Dart-Intermediate-orange)
+- Frameworks: ![Flutter](https://img.shields.io/badge/Flutter-Intermediate-orange)
+- Tools: ![GitHub](https://img.shields.io/badge/GitHub-Intermediate-orange) ![Git](https://img.shields.io/badge/Git-Intermediate-orange)
+- Testing: ![Unit Testing](https://img.shields.io/badge/Unit%20Testing-Intermediate-orange) ![TDD](https://img.shields.io/badge/TDD-Intermediate-orange)
+- Markup Languages: ![HTML](https://img.shields.io/badge/HTML-Intermediate-orange) ![CSS](https://img.shields.io/badge/CSS-Intermediate-orange)
+- Soft Skills: ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Intermediate-orange) ![Communication](https://img.shields.io/badge/Communication-Intermediate-orange) ![Teamwork](https://img.shields.io/badge/Teamwork-Intermediate-orange)
+
 
 ## Projects
 1. [Quadro](https://shorturl.at/beuQ0)
