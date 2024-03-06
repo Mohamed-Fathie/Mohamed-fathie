@@ -31,7 +31,7 @@ hassle-free car maintenance with Quadro.
 4. Staff Affairs Management System [SAMS]([https://shorturl.at/prCM7](https://github.com/nwesri/ITSE421-fall23-t13))
    - The Staff Affairs Management System (SAMS) is a comprehensive solution designed to streamline and automate various administrative tasks related to staff management. SAMS provides functionalities such as employee attendance tracking, leave management, performance evaluation, and communication tools. It allows administrators to easily monitor staff attendance, approve leave requests, and generate reports on staff performance and attendance patterns. SAMS also facilitates effective communication between staff members and management through features like internal messaging and announcement boards. With its user-friendly interface and robust features, SAMS simplifies staff management processes, enhances organizational efficiency, and promotes a productive work environment.
 ## Get in Touch
-- LinkedIn: [mohamedfathie-tech](www.linkedin.com/in/mohamedfathie-tech)
+- LinkedIn: <a href="https://www.linkedin.com/in/mohamedfathie-tech">mohamedfathie-tech</a>
 - Email: [mohamedfathie2000@gmail.com](mailto:mohamedfathie2000@gmail.com)
 
 Feel free to reach out if you want to collaborate on projects or just chat!
