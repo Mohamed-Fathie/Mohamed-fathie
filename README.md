@@ -13,7 +13,7 @@ I'm an undergraduate student at Tripoli University studying software engineering
 
 
 ## Projects
-1. [Quadro]([https://github.com/ZahreddenZromly/quadro](https://github.com/Mohamed-Fathie/quadro_platform))
+1. [Quadro](https://github.com/Mohamed-Fathie/quadro_platform)
     - "Quadro" is a user-friendly app designed for both vehicle owners
 and mechanic workshops. It offers seamless user registration,
 personalized dashboards for accessing towing services and nearby
